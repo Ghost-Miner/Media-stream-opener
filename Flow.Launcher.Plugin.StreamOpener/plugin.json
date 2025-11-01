@@ -1,0 +1,12 @@
+{
+    "ID": "AA0F0CD03C734689B2004D55A81900EF",
+    "ActionKeyword": "s",
+    "Name": "MediaStreamOpener",
+    "Description": "A simple plugin to open a media stream from Flow launcher",
+    "Author": "Ghost-Miner",
+    "Version": "1.0.0",
+    "Language": "csharp",
+    "Website": "https://github.com/Ghost-Miner/Flow.Launcher.Plugin.StreamOpener",
+    "IcoPath": "img\\logo.png",
+    "ExecuteFileName": "Flow.Launcher.Plugin.StreamOpener.dll"
+}

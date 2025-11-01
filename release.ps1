@@ -1,0 +1,2 @@
+dotnet publish Flow.Launcher.Plugin.StreamOpener -c Release -r win-x64 --no-self-contained
+Compress-Archive -LiteralPath Flow.Launcher.Plugin.StreamOpener/bin/Release/win-x64/publish -DestinationPath Flow.Launcher.Plugin.StreamOpener/bin/StreamOpener.zip -Force
