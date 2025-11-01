@@ -1,0 +1,46 @@
+name: Publish Release
+
+on:
+  push:
+    branches: [ main ]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v1
+        with:
+          dotnet-version: 7.0.x
+      
+      - name: Get Version
+        id: version
+        uses: notiz-dev/github-action-json-property@release
+        with:
+          path: 'StreamOpener/Flow.Launcher.Plugin.StreamOpener/plugin.json'
+          prop_path: 'Version'
+      
+      - name: Debug paths
+        run: |
+          echo "Current directory: $PWD"
+          ls -R
+      
+      - name: Build
+        run: |
+          dotnet publish -c Release -r win-x64 ./StreamOpener/Flow.Launcher.Plugin.StreamOpener/Flow.Launcher.Plugin.StreamOpener.csproj
+          7z a -tzip "Flow.Launcher.Plugin.StreamOpener.zip" "./Flow.Launcher.Plugin.StreamOpener/bin/x64/Release/*"
+      
+      - name: Publish
+        uses: softprops/action-gh-release@v1
+        with:
+          files: "Flow.Launcher.Plugin.StreamOpener.zip"
+          tag_name: "v${{steps.version.outputs.prop}}"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
