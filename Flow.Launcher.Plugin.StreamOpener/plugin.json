@@ -6,7 +6,7 @@
   "Author": "Ghost-Miner",
   "Version": "1.0.0",
   "Language": "csharp",
-  "Website": "https://github.com/Ghost-Miner/Flow.Launcher.Plugin.StreamOpener",
+  "Website": "https://github.com/Ghost-Miner/Media-stream-opener",
   "IcoPath": "img\\logo.png",
   "ExecuteFileName": "Flow.Launcher.Plugin.StreamOpener.dll"
 }
