@@ -61,17 +61,6 @@ namespace Flow.Launcher.Plugin.StreamOpener
                         IcoPath = @"img\empty.png",
                         Score = 10,
                     });
-                    results.Add(new Result()
-                    {
-                        Title = "Edit settings file",
-                        IcoPath = @"img\empty.png",
-                        Score = 1,
-                        Action = _ =>
-                        {
-                            StartProcess("notepad.exe", $"{pluginDataFolder}\\{DATA_FILE_NAME}");
-                            return true;
-                        }
-                    });
                 }
             }
             else
