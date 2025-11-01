@@ -34,7 +34,7 @@ jobs:
       
       - name: Build
         run: |
-          dotnet publish -c Release -r win-x64 ./StreamOpener/Flow.Launcher.Plugin.StreamOpener/Flow.Launcher.Plugin.StreamOpener.csproj
+          dotnet publish -c Release -r win-x64 ./Flow.Launcher.Plugin.StreamOpener/Flow.Launcher.Plugin.StreamOpener.csproj
           7z a -tzip "Flow.Launcher.Plugin.StreamOpener.zip" "./Flow.Launcher.Plugin.StreamOpener/bin/x64/Release/*"
       
       - name: Publish
