@@ -1,0 +1,38 @@
+D:\Uzivatel\Admin\Dokumenty\Visual Studio 2022\Projects\StreamOpener_FlowPlugin\Flow.Launcher.Plugin.StreamOpener\bin\x64\Release\plugin.json
+D:\Uzivatel\Admin\Dokumenty\Visual Studio 2022\Projects\StreamOpener_FlowPlugin\Flow.Launcher.Plugin.StreamOpener\bin\x64\Release\img\empty.png
+D:\Uzivatel\Admin\Dokumenty\Visual Studio 2022\Projects\StreamOpener_FlowPlugin\Flow.Launcher.Plugin.StreamOpener\bin\x64\Release\Flow.Launcher.Plugin.StreamOpener.deps.json
+D:\Uzivatel\Admin\Dokumenty\Visual Studio 2022\Projects\StreamOpener_FlowPlugin\Flow.Launcher.Plugin.StreamOpener\bin\x64\Release\Flow.Launcher.Plugin.StreamOpener.dll
+D:\Uzivatel\Admin\Dokumenty\Visual Studio 2022\Projects\StreamOpener_FlowPlugin\Flow.Launcher.Plugin.StreamOpener\bin\x64\Release\Flow.Launcher.Plugin.StreamOpener.xml
+D:\Uzivatel\Admin\Dokumenty\Visual Studio 2022\Projects\StreamOpener_FlowPlugin\Flow.Launcher.Plugin.StreamOpener\bin\x64\Release\Flow.Launcher.Plugin.dll
+D:\Uzivatel\Admin\Dokumenty\Visual Studio 2022\Projects\StreamOpener_FlowPlugin\Flow.Launcher.Plugin.StreamOpener\bin\x64\Release\JetBrains.Annotations.dll
+D:\Uzivatel\Admin\Dokumenty\Visual Studio 2022\Projects\StreamOpener_FlowPlugin\Flow.Launcher.Plugin.StreamOpener\bin\x64\Release\PropertyChanged.dll
+D:\Uzivatel\Admin\Dokumenty\Visual Studio 2022\Projects\StreamOpener_FlowPlugin\Flow.Launcher.Plugin.StreamOpener\obj\x64\Release\Flow.Launcher.Plugin.StreamOpener.csproj.AssemblyReference.cache
+D:\Uzivatel\Admin\Dokumenty\Visual Studio 2022\Projects\StreamOpener_FlowPlugin\Flow.Launcher.Plugin.StreamOpener\obj\x64\Release\Flow.Launcher.Plugin.StreamOpener.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uzivatel\Admin\Dokumenty\Visual Studio 2022\Projects\StreamOpener_FlowPlugin\Flow.Launcher.Plugin.StreamOpener\obj\x64\Release\Flow.Launcher.Plugin.StreamOpener.AssemblyInfoInputs.cache
+D:\Uzivatel\Admin\Dokumenty\Visual Studio 2022\Projects\StreamOpener_FlowPlugin\Flow.Launcher.Plugin.StreamOpener\obj\x64\Release\Flow.Launcher.Plugin.StreamOpener.AssemblyInfo.cs
+D:\Uzivatel\Admin\Dokumenty\Visual Studio 2022\Projects\StreamOpener_FlowPlugin\Flow.Launcher.Plugin.StreamOpener\obj\x64\Release\Flow.Launcher.Plugin.StreamOpener.csproj.CoreCompileInputs.cache
+D:\Uzivatel\Admin\Dokumenty\Visual Studio 2022\Projects\StreamOpener_FlowPlugin\Flow.Launcher.Plugin.StreamOpener\obj\x64\Release\Flow.Lau.3B47E6B5.Up2Date
+D:\Uzivatel\Admin\Dokumenty\Visual Studio 2022\Projects\StreamOpener_FlowPlugin\Flow.Launcher.Plugin.StreamOpener\obj\x64\Release\Flow.Launcher.Plugin.StreamOpener.dll
+D:\Uzivatel\Admin\Dokumenty\Visual Studio 2022\Projects\StreamOpener_FlowPlugin\Flow.Launcher.Plugin.StreamOpener\obj\x64\Release\refint\Flow.Launcher.Plugin.StreamOpener.dll
+D:\Uzivatel\Admin\Dokumenty\Visual Studio 2022\Projects\StreamOpener_FlowPlugin\Flow.Launcher.Plugin.StreamOpener\obj\x64\Release\Flow.Launcher.Plugin.StreamOpener.xml
+D:\Uzivatel\Admin\Dokumenty\Visual Studio 2022\Projects\StreamOpener_FlowPlugin\Flow.Launcher.Plugin.StreamOpener\obj\x64\Release\ref\Flow.Launcher.Plugin.StreamOpener.dll
+D:\Uzivatel\Admin\Dokumenty\Visual Studio 2022\Projects\StreamOpener_FlowPlugin\Flow.Launcher.Plugin.StreamOpener\bin\x64\Release\img\logo.png
+D:\Uzivatel\Admin\Dokumenty\GitHub\Stream-opener\Flow.Launcher.Plugin.StreamOpener\bin\x64\Release\plugin.json
+D:\Uzivatel\Admin\Dokumenty\GitHub\Stream-opener\Flow.Launcher.Plugin.StreamOpener\bin\x64\Release\img\empty.png
+D:\Uzivatel\Admin\Dokumenty\GitHub\Stream-opener\Flow.Launcher.Plugin.StreamOpener\bin\x64\Release\img\logo.png
+D:\Uzivatel\Admin\Dokumenty\GitHub\Stream-opener\Flow.Launcher.Plugin.StreamOpener\bin\x64\Release\Flow.Launcher.Plugin.StreamOpener.deps.json
+D:\Uzivatel\Admin\Dokumenty\GitHub\Stream-opener\Flow.Launcher.Plugin.StreamOpener\bin\x64\Release\Flow.Launcher.Plugin.StreamOpener.dll
+D:\Uzivatel\Admin\Dokumenty\GitHub\Stream-opener\Flow.Launcher.Plugin.StreamOpener\bin\x64\Release\Flow.Launcher.Plugin.StreamOpener.xml
+D:\Uzivatel\Admin\Dokumenty\GitHub\Stream-opener\Flow.Launcher.Plugin.StreamOpener\bin\x64\Release\Flow.Launcher.Plugin.dll
+D:\Uzivatel\Admin\Dokumenty\GitHub\Stream-opener\Flow.Launcher.Plugin.StreamOpener\bin\x64\Release\JetBrains.Annotations.dll
+D:\Uzivatel\Admin\Dokumenty\GitHub\Stream-opener\Flow.Launcher.Plugin.StreamOpener\bin\x64\Release\PropertyChanged.dll
+D:\Uzivatel\Admin\Dokumenty\GitHub\Stream-opener\Flow.Launcher.Plugin.StreamOpener\obj\x64\Release\Flow.Launcher.Plugin.StreamOpener.csproj.AssemblyReference.cache
+D:\Uzivatel\Admin\Dokumenty\GitHub\Stream-opener\Flow.Launcher.Plugin.StreamOpener\obj\x64\Release\Flow.Launcher.Plugin.StreamOpener.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uzivatel\Admin\Dokumenty\GitHub\Stream-opener\Flow.Launcher.Plugin.StreamOpener\obj\x64\Release\Flow.Launcher.Plugin.StreamOpener.AssemblyInfoInputs.cache
+D:\Uzivatel\Admin\Dokumenty\GitHub\Stream-opener\Flow.Launcher.Plugin.StreamOpener\obj\x64\Release\Flow.Launcher.Plugin.StreamOpener.AssemblyInfo.cs
+D:\Uzivatel\Admin\Dokumenty\GitHub\Stream-opener\Flow.Launcher.Plugin.StreamOpener\obj\x64\Release\Flow.Launcher.Plugin.StreamOpener.csproj.CoreCompileInputs.cache
+D:\Uzivatel\Admin\Dokumenty\GitHub\Stream-opener\Flow.Launcher.Plugin.StreamOpener\obj\x64\Release\Flow.Lau.3B47E6B5.Up2Date
+D:\Uzivatel\Admin\Dokumenty\GitHub\Stream-opener\Flow.Launcher.Plugin.StreamOpener\obj\x64\Release\Flow.Launcher.Plugin.StreamOpener.dll
+D:\Uzivatel\Admin\Dokumenty\GitHub\Stream-opener\Flow.Launcher.Plugin.StreamOpener\obj\x64\Release\refint\Flow.Launcher.Plugin.StreamOpener.dll
+D:\Uzivatel\Admin\Dokumenty\GitHub\Stream-opener\Flow.Launcher.Plugin.StreamOpener\obj\x64\Release\Flow.Launcher.Plugin.StreamOpener.xml
+D:\Uzivatel\Admin\Dokumenty\GitHub\Stream-opener\Flow.Launcher.Plugin.StreamOpener\obj\x64\Release\ref\Flow.Launcher.Plugin.StreamOpener.dll

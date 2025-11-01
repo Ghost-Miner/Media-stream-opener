@@ -24,7 +24,7 @@ jobs:
         id: version
         uses: notiz-dev/github-action-json-property@release
         with:
-          path: 'StreamOpener/Flow.Launcher.Plugin.StreamOpener/plugin.json'
+          path: 'Flow.Launcher.Plugin.StreamOpener/plugin.json'
           prop_path: 'Version'
       
       - name: Debug paths
